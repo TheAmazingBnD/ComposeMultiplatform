@@ -1,0 +1,55 @@
+.social-icon {
+    width: 60px;
+    height: 60px;
+    border-radius: 64px;
+    object-fit: contain;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.self-picture {
+    width: 200px;
+    height: 200px;
+    border-radius: 64px;
+    object-fit: contain;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.H1 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.H2 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.H3 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.body {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
