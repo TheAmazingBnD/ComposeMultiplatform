@@ -29,11 +29,11 @@
   },
   entry: {
     main: [
-      'F:\\MultiplatformTest\\build\\js\\packages\\MultiplatformTest-web\\kotlin\\MultiplatformTest-web.js'
+      '/mnt/c/users/bnd25/OneDrive/Desktop/Projects/New folder/ComposeMultiplatform/build/js/packages/MultiplatformTest-web/kotlin/MultiplatformTest-web.js'
     ]
   },
   output: {
-    path: 'F:\\MultiplatformTest\\web\\build\\distributions',
+    path: '/mnt/c/users/bnd25/OneDrive/Desktop/Projects/New folder/ComposeMultiplatform/web/build/distributions',
     filename: [Function: filename],
     library: 'web',
     libraryTarget: 'umd',
@@ -50,7 +50,7 @@
   devServer: {
     open: true,
     contentBase: [
-      'F:\\MultiplatformTest\\web\\build\\processedResources\\js\\main'
+      '/mnt/c/users/bnd25/OneDrive/Desktop/Projects/New folder/ComposeMultiplatform/web/build/processedResources/js/main'
     ]
   }
 }

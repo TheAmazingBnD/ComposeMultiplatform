@@ -8,7 +8,7 @@ pluginManagement {
     }
     
 }
-rootProject.name = "MultiplatformTest"
+rootProject.name = "bduvall"
 
 
 include(":android")
